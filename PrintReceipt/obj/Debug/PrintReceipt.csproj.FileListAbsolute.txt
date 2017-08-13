@@ -1,0 +1,60 @@
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.exe
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.pdb
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Properties.Resources.resources
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.csproj.GenerateResource.Cache
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.exe
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.pdb
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Form1.resources
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.frmPrint.resources
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\RdlCompile.cache
+c:\users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\RdlCompile.compiled
+C:\Users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.exe.config
+C:\Users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\bin\Debug\print_db.mdf
+C:\Users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\bin\Debug\print_db_log.ldf
+C:\Users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Form2.resources
+C:\Users\negative\documents\visual studio 2013\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.csprojResolveAssemblyReference.cache
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.exe.config
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.exe
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.pdb
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\bin\Debug\print_db.mdf
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\bin\Debug\print_db_log.ldf
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.exe
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.pdb
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.csprojResolveAssemblyReference.cache
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Form1.resources
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Form2.resources
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.frmPrint.resources
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Properties.Resources.resources
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.csproj.GenerateResource.Cache
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\RdlCompile.cache
+C:\Users\stive\Desktop\PrintReceipt\PrintReceipt\obj\Debug\RdlCompile.compiled
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.exe.config
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.exe
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.pdb
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\bin\Debug\print_db.mdf
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\bin\Debug\print_db_log.ldf
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.exe
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.pdb
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.csprojResolveAssemblyReference.cache
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Form1.resources
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Form2.resources
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.frmPrint.resources
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Properties.Resources.resources
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.csproj.GenerateResource.Cache
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\RdlCompile.cache
+C:\Users\stive\Google Drive\AIUB\Projects\PrintReceipt\PrintReceipt\obj\Debug\RdlCompile.compiled
+E:\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.exe.config
+E:\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.exe
+E:\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.pdb
+E:\PrintReceipt\PrintReceipt\bin\Debug\print_db.mdf
+E:\PrintReceipt\PrintReceipt\bin\Debug\print_db_log.ldf
+E:\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.exe
+E:\PrintReceipt\PrintReceipt\bin\Debug\PrintReceipt.pdb
+E:\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.csprojResolveAssemblyReference.cache
+E:\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.frmPrint.resources
+E:\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.Properties.Resources.resources
+E:\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.csproj.GenerateResource.Cache
+E:\PrintReceipt\PrintReceipt\obj\Debug\RdlCompile.cache
+E:\PrintReceipt\PrintReceipt\obj\Debug\RdlCompile.compiled
+E:\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.MainUI.resources
+E:\PrintReceipt\PrintReceipt\obj\Debug\PrintReceipt.DetailsUI.resources
